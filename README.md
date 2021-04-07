@@ -25,15 +25,16 @@ Understanding management goals is essential for any employees. It is crucial a d
 5. The knowledge also help to set priority to determine which goal is to be achieved when
 
 ## How Management goals help solve a problem
-
-
+- management goals help guide decision making process
+- it serve as a driver ro control affairs of a business
+- it helps determine what to do, when to do it and how to do it
 
 ## Examples of how you probably used Management today
 Setting standards for yourself is one key example of how you using management today. When you set policies for yourself, things you can do but won't do it because it does not sit well with your set standards.
 
 Another example is planning. There is a saying that "whoever fails to plan has plan to fail" and nobody likes to fail, so it is crucial to plan. For example, Planning how you'd complete a given task is a good use case of management because in the plan there will be stages, what needs to be done first before moving to the next one and one stage will inform the next till the task is completed.
 
-## What differentiate Begineers from Experts 
+## What differentiate Beginners from Experts 
 Experts adhere to the policies that they have set strictly no room for change
 Experts set standards that are realistic and achievable within the time set as deadline
 Experts uses time constraint to set deadlines and stick to it
@@ -53,6 +54,12 @@ Agile Methodology:  is a practice that promotes continuous iteration of developm
 Data Driven Scrum: Data Driven Scrum™ is a continuous flow framework for agile data science that integrates the structure of Scrum and the continuous flow of Kanban. This new data driven agile approach combines many agile principles with data science life cycle. Specifically, it leverages many of the same underlying practices of Scrum and Kanban and applies them to support data science teams. [Learn More here](https://www.datascience-pm.com/data-driven-scrum/)
 
 ![ddscrum](https://www.datascience-pm.com/wp-content/uploads/2021/02/data-driven-scrum-full-detail-1000.png)
+
+## What components makes up management goals
+- Company policies/rules
+- Managers (Leaders)
+- Employees
+- Customers
 
 ## Key Topics
 Types of Management Style
